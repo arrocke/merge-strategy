@@ -1,2 +1,3 @@
 Some changes to feature A.
+Some changes from feature B.
 Some changes from feature C.
